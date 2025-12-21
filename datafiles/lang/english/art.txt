@@ -1,0 +1,32 @@
+{
+  "spr_rankD_text":{
+    "xorigin":480.0,
+    "yorigin":270.0,
+    "path":"art/spr_rankD_text.gif"
+  },
+  "spr_rankS_text":{
+    "xorigin":480.0,
+    "yorigin":270.0,
+    "path":"art/spr_rankS_text.gif"
+  },
+  "spr_rankA_text":{
+    "xorigin":480.0,
+    "yorigin":270.0,
+    "path":"art/spr_rankA_text.gif"
+  },
+  "spr_rankB_text":{
+    "xorigin":480.0,
+    "yorigin":270.0,
+    "path":"art/spr_rankB_text.gif"
+  },
+  "spr_rankC_text":{
+    "xorigin":480.0,
+    "yorigin":270.0,
+    "path":"art/spr_rankC_text.gif"
+  },
+  "spr_goodmourning":{
+    "xorigin":210.0,
+    "yorigin":160.0,
+    "path":"art/spr_teatime.gif"
+  },
+}
