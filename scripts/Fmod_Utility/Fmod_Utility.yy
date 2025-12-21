@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fmod_Utility",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fmod_Utility",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

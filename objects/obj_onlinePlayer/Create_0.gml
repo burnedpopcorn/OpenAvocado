@@ -1,0 +1,10 @@
+currentRoom = room;
+xscale = 1;
+flash = false;
+angle = 0;
+palIndex = 0;
+spr_palette = 0;
+name = "TEST";
+image_speed = 0;
+socket = noone;
+onlineID = noone;
